@@ -81,3 +81,9 @@ Gambar diatas merupakan tampilan dari struktur data dari tabel customer_service 
 ![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/9cc96a1e-7ce9-4bd7-ac4a-493f881c2395)
 
 Gambar diatas merupakan tampilan dari contoh data yang telah kita masukkan pada tabel customer_service.
+
+
+STRUKTUR DATABASE nasabah_bank
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/16d125a7-17a6-4d96-b3b9-7e48d478a77d)
+
+Gambar diatas merupakan tampilan dari struktur database yang telah dibuat yaitu database nasabah_bank.
