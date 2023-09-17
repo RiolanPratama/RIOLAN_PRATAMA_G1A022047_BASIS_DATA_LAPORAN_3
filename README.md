@@ -5,7 +5,7 @@ NPM   : G1A022047
 KELAS : A2
 
 1. Tabel nasabah
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/49a0bbae-28b0-4d4b-9fa8-8593d63611c4)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/1e524b69-96d8-4bf9-bde2-658b2c1ba797)
 
 Gambar diatas memperlihatkan tabel nasabah, disana terdapat beberapa atribut yaitu id_nasabah, nik, no_rekening, nama_lengkap, no_telp, pekerjaan, tanggal_lahir, alamat. pada tabel tersebut id_nasabah sebagai primary key, nik sebagai foreign key, dan no_rekening sebagai foreign key juga.
 
@@ -44,41 +44,41 @@ Gambar diatas merupakan tampilan dari struktur data dari tabel rekening yang tel
 Gambar diatas merupakan tampilan dari contoh data yang telah kita masukkan pada tabel rekening.
 
 4. Tabel teller
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/f51e75a3-4fed-445c-9e66-aed9b538373b)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/90ef0bb3-e689-492d-b17a-5adc56e00c8a)
 
-Gambar diatas memperlihatkan tabel teller, disana terdapat beberapa atribut yaitu id_teller dan nama_teller. pada tabel tersebut id_teller sebagai primary key.
+Gambar diatas memperlihatkan tabel teller, disana terdapat beberapa atribut yaitu id_teller, nama_teller, no_telp_teller, alamat_teller, dan email_teller. pada tabel tersebut id_teller sebagai primary key.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/c42068ef-9d4d-4885-9a35-876d355a9156)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/abaa24ae-ba27-41cd-802f-1af81c433d1f)
 
 Gambar diatas merupakan tampilan dari struktur data dari tabel teller yang telah kita buat sebelumnya, disini kita membuat struktur tersebut menggunakan phpmyadmin.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/8aa788f7-4523-4496-8a49-295c1cef09ad)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/53608ef9-1b2e-4a2c-9906-a219ba5c84d8)
 
 Gambar diatas merupakan tampilan dari contoh data yang telah kita masukkan pada tabel teller.
 
 5. Tabel direktur_bank
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/34e2df02-8689-440a-a6c2-f1347705c838)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/2016ef01-b3a5-4b0b-acb3-3880e8308249)
 
-Gambar diatas memperlihatkan tabel direktur_bank, disana terdapat beberapa atribut yaitu id_direktur dan nama_direktur. pada tabel tersebut id_direktur sebagai primary key.
+Gambar diatas memperlihatkan tabel direktur_bank, disana terdapat beberapa atribut yaitu id_direktur, nama_direktur, no_telp_direktur, alamat_direktur, dan email_direktur. pada tabel tersebut id_direktur sebagai primary key.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/cf3ac06a-105b-48ea-8a7b-3a7939c55e7f)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/b5c6b6b3-a3e8-4c47-a9d0-3ad78a56d164)
 
 Gambar diatas merupakan tampilan dari struktur data dari tabel direktur_bank yang telah kita buat sebelumnya, disini kita membuat struktur tersebut menggunakan phpmyadmin.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/fdeaad69-0202-46dd-bd47-06d4e1c413d3)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/bde86c31-9525-40fb-bb55-e96f2db4ebf7)
 
 Gambar diatas merupakan tampilan dari contoh data yang telah kita masukkan pada tabel direktur_bank.
 
 6. customer_service
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/a957c9c5-bc66-4e20-98ef-e855e7fa41fb)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/0ad1ca26-7a1c-4e85-950b-1bcf735f6f33)
 
-Gambar diatas memperlihatkan tabel customer_service, disana terdapat beberapa atribut yaitu id_cs dan nama_cs. pada tabel tersebut id_cs sebagai primary key.
+Gambar diatas memperlihatkan tabel customer_service, disana terdapat beberapa atribut yaitu id_cs, nama_cs, no_telp_cs, alamat_cs, dan email_cs. pada tabel tersebut id_cs sebagai primary key.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/152a1a31-b865-4a3e-97b5-5058a9dd6aea)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/4e41260b-eda6-41a8-954e-2dddd8c48e54)
 
 Gambar diatas merupakan tampilan dari struktur data dari tabel customer_service yang telah kita buat sebelumnya, disini kita membuat struktur tersebut menggunakan phpmyadmin.
 
-![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/9cc96a1e-7ce9-4bd7-ac4a-493f881c2395)
+![image](https://github.com/RiolanPratama/RIOLAN_PRATAMA_G1A022047_BASIS_DATA_LAPORAN_3/assets/102577435/a4a5837e-2e47-4457-8920-c25aa3b1b024)
 
 Gambar diatas merupakan tampilan dari contoh data yang telah kita masukkan pada tabel customer_service.
 
